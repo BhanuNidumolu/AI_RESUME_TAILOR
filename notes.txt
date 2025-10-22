@@ -1,0 +1,2 @@
+3. check how we can convert the returned text into PDF format for users to download
+    3.1. try to give the users different options for final resume format(pdf, docx, txt)
